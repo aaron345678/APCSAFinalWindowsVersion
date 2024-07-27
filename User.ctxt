@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ User\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ password
+comment1.target=User(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=entry
+comment3.target=boolean\ checkPassword(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+numComments=5

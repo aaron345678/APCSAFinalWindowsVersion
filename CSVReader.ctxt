@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CSVReader
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CSVReader\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CSVReader()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CSVReader\r\n
+comment2.params=
+comment2.target=java.util.HashMap\ importFileToMap()
+comment3.params=mapOfStuff
+comment3.target=void\ saveToCSV(java.util.HashMap)
+comment4.params=mapOfStuff
+comment4.target=void\ appendToCSV(java.util.HashMap)
+comment5.params=
+comment5.target=void\ clearCSV()
+numComments=6

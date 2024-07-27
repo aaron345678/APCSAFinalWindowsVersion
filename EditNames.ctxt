@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EditNames
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EditNames\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=java.lang.String\ movedLetter(java.lang.String)
+comment2.params=name
+comment2.target=java.lang.String\ demoveLetter(java.lang.String)
+comment3.params=namesList
+comment3.target=java.util.ArrayList\ encrypt(java.lang.String[])
+comment4.params=namesList
+comment4.target=java.util.ArrayList\ decrypt(java.lang.String[])
+numComments=5

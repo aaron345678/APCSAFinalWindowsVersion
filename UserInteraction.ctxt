@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UserInteraction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UserInteraction\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UserInteraction()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserInteraction\r\n
+comment10.params=user
+comment10.target=boolean\ login(User)
+comment2.params=user
+comment2.target=double\ getPersonalMoney(User)
+comment3.params=user\ change
+comment3.target=boolean\ changeMoney(User,\ double)
+comment4.params=name
+comment4.target=User\ getUser(java.lang.String)
+comment5.params=name
+comment5.target=boolean\ checkUserNull(java.lang.String)
+comment6.params=
+comment6.target=void\ printAllMap()
+comment7.params=user\ money
+comment7.target=boolean\ addUser(User,\ double)
+comment8.params=
+comment8.target=void\ save()
+comment9.params=
+comment9.target=void\ saveNewUsers()
+numComments=11
