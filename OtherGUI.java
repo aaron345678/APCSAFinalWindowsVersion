@@ -171,14 +171,14 @@ public class OtherGUI {
                     if(userInteraction.login(new User(username,password))) {
                         JOptionPane.showMessageDialog(frame, "Signed in as: " + username);
                         currentUser = userInteraction.getUser(username);
-                        showScreen3();
                         frame.getContentPane().removeAll();
+                        showScreen3();
+                        
                     } else {
                        JOptionPane.showMessageDialog(frame,"Failed login");
                     }
 
-                    frame.getContentPane().removeAll();
-                    showScreen3();
+                   
                 }
             });
 
